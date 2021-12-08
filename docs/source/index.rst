@@ -10,17 +10,6 @@ Welcome to bqStart's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   pages/reStructuredTextGuide
-
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
-
 """""""""""""""""
 Document Title
 """""""""""""""""
@@ -135,7 +124,7 @@ There are three equivalents: ``code``, ``sourcecode``, and ``code-block``.
 Links
 -----
 
-Web addresses by themselves will auto link, like this: https://www.devdungeon.com
+Web addresses by themselves will auto link, like this: https://www.binaryquest.com
 
 You can also inline custom links: `Google search engine <https://www.google.com>`_
 
@@ -149,6 +138,7 @@ This is a link to the `Python website`_.
 
 This is a link back to `Section 1`_. You can link based off of the heading name
 within a document.
+
 
 
 -----------------
@@ -182,11 +172,3 @@ on the lines. For example:
 | These lines will
 | break exactly
 | where we told them to.
-
-* SourceCode - https://github.com/binaryquest/bqstart/tree/main/aspnet/src
-* Web - https://binaryquest.com/
-
-
-* Contact - 
-   Australia Office: 147 Sydney Rd, Coburg, VIC, 3058, Australia
-   Bangladesh Office: 245/2 New Circular Road, Malibagh, Dhaka - 1217
