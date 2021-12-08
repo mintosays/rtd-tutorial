@@ -22,22 +22,5 @@ Document Title
 **This is a break ...**
 
 
-
-How to Create Document Sub Title -
-""""""""""""""""""""""""""""""""""
-
-To generate a sub Title put dot (.) on top and bottom of Text, like
- 
-It will be shown like this in your documentaion -  
-........
-Subtitle
-........
-
-.. image:: ../image/Subtitle.png
-    :height: 100
-    :width: 200
-    :alt: alternate text
-
-
-
-**THIS IS A BREAK**
+`XML Documentation`_ - 
+.. _XML Documentation: https://github.com/mintosays/rtd-tutorial/blob/main/docs/source/PDCL.ERP2.Shell.xml
