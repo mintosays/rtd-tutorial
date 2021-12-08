@@ -13,13 +13,6 @@ Welcome to bqStart's documentation!
    pages/xmlDocumentation
  
 
-"""""""""""""""""
-Document Title
-"""""""""""""""""
-...........
-Subtitle
-...........
-
 .. contents:: Overview
    :depth: 3
 
