@@ -10,11 +10,9 @@ Welcome to bqStart's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   pages/reStructuredTextGuide
 
 
-   pages/DocuPage1
-   pages/DocuPage2
-   pages/DocuPage3
 
 
 Indices and tables
@@ -152,17 +150,6 @@ This is a link to the `Python website`_.
 This is a link back to `Section 1`_. You can link based off of the heading name
 within a document.
 
----------
-Footnotes
----------
-
-Footnote Reference [1]_
-
-.. [1] This is footnote number one that would go at the bottom of the document.
-
-Or autonumbered [#]
-
-.. [#] This automatically becomes second, based on the 1 already existing.
 
 -----------------
 Lines/Transitions
