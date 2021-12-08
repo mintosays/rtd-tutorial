@@ -14,6 +14,7 @@ Welcome to bqStart's documentation!
 
    pages/DocuPage1
    pages/DocuPage2
+   pages/DocuPage3
 
 
 Indices and tables
