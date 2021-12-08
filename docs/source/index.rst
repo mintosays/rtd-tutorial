@@ -10,6 +10,9 @@ Welcome to bqStart's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   pages/xmlDocumentation
+ 
+
 """""""""""""""""
 Document Title
 """""""""""""""""
