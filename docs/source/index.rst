@@ -11,6 +11,7 @@ Welcome to bqStart's documentation!
    :caption: Contents:
 
    pages/xmlDocumentation
+   pages/demo
  
 
 .. contents:: Overview
